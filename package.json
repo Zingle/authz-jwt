@@ -1,0 +1,19 @@
+{
+  "name": "@zingle/authz-jwt",
+  "version": "0.0.1",
+  "description": "authz JWT authentication strategy",
+  "main": "jwt-strategy.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zingle/authz-jwt.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zingle/authz-jwt/issues"
+  },
+  "homepage": "https://github.com/Zingle/authz-jwt#readme",
+  "dependencies": {
+    "passport-jwt": "^4.0.0"
+  }
+}
